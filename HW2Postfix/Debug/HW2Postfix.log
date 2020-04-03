@@ -1,0 +1,4 @@
+﻿  eval.cpp
+C:\Users\helen\CS32\HW2Postfix\eval.cpp(31,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\helen\CS32\HW2Postfix\eval.cpp(87,20): warning C4018: '<': signed/unsigned mismatch
+  HW2Postfix.vcxproj -> C:\Users\helen\CS32\HW2Postfix\Debug\HW2Postfix.exe

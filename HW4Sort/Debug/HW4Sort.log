@@ -1,0 +1,5 @@
+﻿  sorts.cpp
+C:\Users\helen\CS32\HW4Sort\sorts.cpp(134,37): warning C4018: '<': signed/unsigned mismatch
+C:\Users\helen\CS32\HW4Sort\sorts.cpp(253,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\helen\CS32\HW4Sort\sorts.cpp(264,27): warning C4018: '<': signed/unsigned mismatch
+  HW4Sort.vcxproj -> C:\Users\helen\CS32\HW4Sort\Debug\HW4Sort.exe
